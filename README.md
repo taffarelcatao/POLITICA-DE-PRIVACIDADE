@@ -57,3 +57,64 @@ Esta política entra em vigor a partir de 06/07/2023
 Contate-nos
 
 Se você tiver alguma dúvida ou sugestão sobre a minha Política de Privacidade, não hesite em entrar em contato comigo em taffarel.182@gmail.com.
+
+
+Privacy Policy
+Taffarel Catão, created the application as a free and open source application. This SERVICE is provided by taffarel catão at no cost and must be used as is.
+
+This page is used to inform visitors about my policies on the collection, use and disclosure of Personal Information if anyone decides to use my Service.
+
+If you choose to use my Service, you consent to the collection and use of information in relation to this policy. The personal information we collect is used to provide and improve the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at, unless otherwise defined in this Privacy Policy.
+
+Collection and use of information
+
+For a better experience, when using our Service, we do not require you to provide us with certain personally identifiable information.
+
+The application uses third-party services that do not need to collect information used to identify you.
+
+Link to privacy policy of third-party service providers used by the application
+
+Google Play Services
+Registration data
+
+I want to inform you that whenever you use my Service, in case of an error in the application, We will collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device's Internet Protocol (“IP”) address, device name, operating system version, the configuration of the application when using our Service, the time and date of your use of the Service and other statistics.
+
+Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. They are sent to your browser from the websites you visit and are stored in your device's internal memory.
+
+This Service does not explicitly use these “cookies”. However, the application may use third-party codes and libraries that use “cookies” to collect information and improve its services. You have the option to accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+Service Providers
+
+We may employ third party companies and individuals for the following reasons:
+
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform services related to the Service; or
+To help us analyze how our Service is used.
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to carry out the tasks assigned to them on our behalf. However, they are obliged not to disclose or use the information for any other purpose.
+
+Security
+
+We value your trust in providing us with your Personal Information, therefore we are striving to use commercially acceptable means to protect it. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
+Links to other websites
+
+This Service may contain links to other websites. If you click on a third-party link, you will be directed to that website. Please note that these external sites are operated by us. We have control over, and assume responsibility for, the content, privacy policies, or practices of any third party sites or services.
+
+Children's privacy
+
+These Services are not directed to anyone under 13 years of age. We do not knowingly collect personally identifiable information from children under 13 years of age. If we discover that a child under 13 has provided us with personal information, we will immediately delete it from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that we will be able to do necessary actions.
+
+Changes to this Privacy Policy
+
+We may update our Privacy Policy from time to time. Therefore, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy comes into force from 07/06/2023
+
+Contact us
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at taffarel.182@gmail.com.
