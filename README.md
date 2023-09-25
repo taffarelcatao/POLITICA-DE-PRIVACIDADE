@@ -1,42 +1,59 @@
-Privacy Policy
-Introduction
-Our privacy policy will help you understand what information we collect at [Company/AppName], how [Company/AppName] uses it, and what choices you have. [Company/AppName] built the [AppName] app as a free app. This SERVICE is provided by [Company/AppName] at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
+política de Privacidade
+Taffarel Catão, criou o aplicativo como aplicativo código aberto e gratuito. Este SERVIÇO é fornecido por taffarel catão sem nenhum custo e deve ser usado como está.
 
-Information Collection and Use
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.
-The app does use third party services that may collect information used to identify you.
+Esta página é usada para informar os visitantes sobre as minhas políticas de coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar o meu Serviço.
 
-Cookies
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
+Se você optar por usar o meu Serviço, você concorda com a coleta e uso de informações em relação a esta política. As informações pessoais que nós coletamos são usadas para fornecer e melhorar o Serviço. Nós não usaremos ou compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Os termos utilizados nesta Política de Privacidade têm os mesmos significados que nos nossos Termos e Condições, que estão acessíveis em, salvo definição em contrário nesta Política de Privacidade.
 
-Location Information
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
+Coleta e uso de informações
 
-Device Information
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.
+Para uma melhor experiência, ao usar nosso Serviço, nós não exigirmos que você nos forneça certas informações de identificação pessoal. 
 
-Service Providers
-We may employ third-party companies and individuals due to the following reasons:
+O aplicativo usa serviços de terceiros que não precisa coletar informações usadas para identificá-lo.
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Link para a política de privacidade de provedores de serviços terceirizados usados ​​pelo aplicativo
 
-Security
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Serviços do Google Play
+Dados de registro
 
-Children’s Privacy
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+Eu quero informar que sempre que você usar o meu Serviço, em caso de erro no aplicativo, Nós coletaremos dados e informações (através de produtos de terceiros) em seu telefone chamado Log Dados. Esses dados de registro podem incluir informações como endereço de protocolo de Internet (“IP”) do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar nosso Serviço, a hora e a data de seu uso do Serviço e outras estatísticas.
 
-Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+Biscoitos
 
-Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
-Contact Information:
-Email: [taffarel.182@gmail.com]
+Cookies são arquivos com uma pequena quantidade de dados que são comumente usados ​​como identificadores únicos anônimos. Eles são enviados para o seu navegador a partir dos sites que você visita e são armazenados na memória interna do seu dispositivo.
+
+Este Serviço não utiliza estes “cookies” explicitamente. No entanto, o aplicativo pode utilizar códigos e bibliotecas de terceiros que utilizam “cookies” para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado para o seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
+
+Provedores de serviço
+
+Nós podemos contratar empresas e indivíduos terceirizados pelos seguintes motivos:
+
+Para facilitar nosso Serviço;
+Para fornecer o Serviço em nosso nome;
+Para realizar serviços relacionados ao Serviço; ou
+Para nos ajudar a analisar como nosso Serviço é usado.
+Nós queremos informar aos usuários deste Serviço que esses terceiros têm acesso às suas Informações Pessoais. O motivo é executar as tarefas que lhes são atribuídas em nosso nome. No entanto, eles são obrigados a não divulgar ou utilizar as informações para qualquer outro fim.
+
+Segurança
+
+Nós valorizamos sua confiança ao nos fornecer suas Informações Pessoais, portanto, estamos nos esforçando para usar meios comercialmente aceitáveis ​​para protegê-las. Mas lembre-se de que nenhum método de transmissão pela Internet ou método de armazenamento eletrônico é 100% seguro e confiável, e nós não podemos garantir sua segurança absoluta.
+
+Links para outros sites
+
+Este Serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado para esse site. Observe que esses sites externos são operados por nós. Nós temos controle e assumimos responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.
+
+Privacidade infantil
+
+Estes Serviços não se dirigem a ninguém com menos de 13 anos de idade. Nós não coletamos intencionalmente informações de identificação pessoal de crianças com menos de 13 anos de idade. Caso nós descubramos que uma criança menor de 13 anos nos forneceu informações pessoais, nós as excluímos imediatamente de nossos servidores. Se você é pai ou responsável e sabe que seu filho nos forneceu informações pessoais, entre em contato comigo para que nós possamos tomar as ações necessárias.
+
+Alterações nesta Política de Privacidade
+
+Nós podemos atualizar nossa Política de Privacidade de tempos em tempos. Portanto, é aconselhável revisar esta página periodicamente para verificar quaisquer alterações. Nós iremos notificá-lo sobre quaisquer alterações publicando a nova Política de Privacidade nesta página.
+
+Esta política entra em vigor a partir de 06/07/2023
+
+Contate-nos
+
+Se você tiver alguma dúvida ou sugestão sobre a minha Política de Privacidade, não hesite em entrar em contato comigo em taffarel.182@gmail.com.
