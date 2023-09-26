@@ -1,120 +1,121 @@
-política de Privacidade
-Taffarel Catão, criou o aplicativo como aplicativo código aberto e gratuito. Este SERVIÇO é fornecido por taffarel catão sem nenhum custo e deve ser usado como está.
+TERMO DE USO E POLÍTICA DE PRIVACIDADE
 
-Esta página é usada para informar os visitantes sobre as minhas políticas de coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar o meu Serviço.
+1.	Quais informações estão presentes no Termo de Uso e na Política de Privacidade?
 
-Se você optar por usar o meu Serviço, você concorda com a coleta e uso de informações em relação a esta política. As informações pessoais que nós coletamos são usadas para fornecer e melhorar o Serviço. Nós não usaremos ou compartilharemos suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
+Neste Termo de Uso, serão apresentadas informações sobre: o funcionamento do serviço SIATER2-app e as regras aplicáveis ao seu uso; o arcabouço legal relacionado à prestação do serviço; as responsabilidades do usuário ao utilizar o serviço; as responsabilidades da administração pública ao prover o serviço; informações para contato, caso exista alguma dúvida; os direitos autorais e a propriedade intelectual; e o foro responsável por eventuais reclamações caso se entenda que as cláusulas deste Termo de Uso tenham sido violadas.
 
-Os termos utilizados nesta Política de Privacidade têm os mesmos significados que nos nossos Termos e Condições, que estão acessíveis em, salvo definição em contrário nesta Política de Privacidade.
+Nesta Política de Privacidade, serão apresentadas informações sobre: qual o tratamento dos dados pessoais realizados, de forma automatizada ou não, e a sua finalidade; os dados pessoais dos cidadãos que são necessários para a prestação do serviço; a forma como eles são coletados; se há o compartilhamento de dados com terceiros; e quais medidas de segurança são implementadas para proteger os dados dos cidadãos.
 
-Coleta e uso de informações
+2.	Ciência do Termo de Uso e da Política de Privacidade
 
-Para uma melhor experiência, ao usar nosso Serviço, nós não exigirmos que você nos forneça certas informações de identificação pessoal. 
+Ao utilizar o serviço SIATER2-app o cidadão confirma que leu e compreendeu as regras do Termo de Uso e da Política de Privacidade e concordou em ficar vinculado a eles.
 
-O aplicativo usa serviços de terceiros que não precisa coletar informações usadas para identificá-lo.
+3.	Definições
 
-Link para a política de privacidade de provedores de serviços terceirizados usados ​​pelo aplicativo
+Para melhor compreensão deste documento, neste Termo de Uso e Política de Privacidade, consideram-se:
 
-Serviços do Google Play
-Dados de registro
+Acesso SIATER2-APP, não precisa de Login, acesso livre.
 
-Eu quero informar que sempre que você usar o meu Serviço, em caso de erro no aplicativo, Nós coletaremos dados e informações (através de produtos de terceiros) em seu telefone chamado Log Dados. Esses dados de registro podem incluir informações como endereço de protocolo de Internet (“IP”) do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar nosso Serviço, a hora e a data de seu uso do Serviço e outras estatísticas.
+Agente público: Todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função nos órgãos e entidades da Administração Pública, direta e indireta.
 
-Biscoitos
+Agentes de Estado: inclui órgãos e entidades da Administração pública além dos seus agentes públicos. Agentes de tratamento: o controlador e o operador.
+Autoridade Nacional de Proteção de Dados (ANPD): órgão da administração pública responsável por zelar, implementar e fiscalizar o cumprimento da Lei Geral de Proteção de Dados -LGPD em todo o território nacional.
 
-Cookies são arquivos com uma pequena quantidade de dados que são comumente usados ​​como identificadores únicos anônimos. Eles são enviados para o seu navegador a partir dos sites que você visita e são armazenados na memória interna do seu dispositivo.
+Cadastro Base do Cidadão - informação de referência, íntegra e precisa, centralizada ou descentralizada, oriunda de uma ou mais fontes, sobre elementos fundamentais para a prestação de serviços e para a gestão de políticas públicas, tais como pessoas, empresas, veículos, licenças e locais.
 
-Este Serviço não utiliza estes “cookies” explicitamente. No entanto, o aplicativo pode utilizar códigos e bibliotecas de terceiros que utilizam “cookies” para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado para o seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
+Códigos maliciosos: qualquer programa de computador, ou parte de um programa, construído com a intenção de provocar danos, obter informações não autorizadas ou interromper o funcionamento de sistemas e/ou redes de computadores.
 
-Provedores de serviço
+Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais.
 
-Nós podemos contratar empresas e indivíduos terceirizados pelos seguintes motivos:
+Dado pessoal: informação relacionada a pessoa natural identificada ou identificável.
 
-Para facilitar nosso Serviço;
-Para fornecer o Serviço em nosso nome;
-Para realizar serviços relacionados ao Serviço; ou
-Para nos ajudar a analisar como nosso Serviço é usado.
-Nós queremos informar aos usuários deste Serviço que esses terceiros têm acesso às suas Informações Pessoais. O motivo é executar as tarefas que lhes são atribuídas em nosso nome. No entanto, eles são obrigados a não divulgar ou utilizar as informações para qualquer outro fim.
+Identificação Civil Nacional (ICN): identificação que possui como objetivo identificar o brasileiro em suas relações com a sociedade e com os órgãos e entidades governamentais e privados.
 
-Segurança
+Internet: o sistema constituído do conjunto de protocolos lógicos, estruturado em escala mundial para uso público e irrestrito, com a finalidade de possibilitar a comunicação de dados entre terminais por meio de diferentes redes.
 
-Nós valorizamos sua confiança ao nos fornecer suas Informações Pessoais, portanto, estamos nos esforçando para usar meios comercialmente aceitáveis ​​para protegê-las. Mas lembre-se de que nenhum método de transmissão pela Internet ou método de armazenamento eletrônico é 100% seguro e confiável, e nós não podemos garantir sua segurança absoluta.
+Lei Geral de Proteção de Dados (LGPD): Lei Federal n. 13.709, de 14 de agosto de 2018, que dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
 
-Links para outros sites
+Operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador.
 
-Este Serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado para esse site. Observe que esses sites externos são operados por nós. Nós temos controle e assumimos responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.
+Sítios e aplicativos: sítios e aplicativos por meio dos quais o usuário acessa os serviços e conteúdos disponibilizados no gov.br.
 
-Privacidade infantil
+Terceiro: pessoa ou entidade que não participa diretamente em um contrato, em um ato jurídico ou em um negócio, ou que, para além das partes envolvidas, pode ter interesse num processo jurídico.
 
-Estes Serviços não se dirigem a ninguém com menos de 13 anos de idade. Nós não coletamos intencionalmente informações de identificação pessoal de crianças com menos de 13 anos de idade. Caso nós descubramos que uma criança menor de 13 anos nos forneceu informações pessoais, nós as excluímos imediatamente de nossos servidores. Se você é pai ou responsável e sabe que seu filho nos forneceu informações pessoais, entre em contato comigo para que nós possamos tomar as ações necessárias.
+Cidadão (titular na LGPD): pessoa natural a quem se referem os dados pessoais que são objeto de tratamento.
 
-Alterações nesta Política de Privacidade
+Tratamento: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção,
+classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração.
 
-Nós podemos atualizar nossa Política de Privacidade de tempos em tempos. Portanto, é aconselhável revisar esta página periodicamente para verificar quaisquer alterações. Nós iremos notificá-lo sobre quaisquer alterações publicando a nova Política de Privacidade nesta página.
+Uso compartilhado de dados: comunicação, difusão, transferência internacional, interconexão de dados pessoais ou tratamento compartilhado de bancos de dados pessoais por órgãos e entidades públicos no cumprimento de suas competências legais, ou entre esses e entes privados, reciprocamente, com autorização específica, para uma ou mais modalidades de tratamento permitidas por esses entes públicos, ou entre entes privados.
 
-Esta política entra em vigor a partir de 06/07/2023
+Cidadãos (ou "Cidadão", quando individualmente considerado): todas as pessoas naturais que utilizarem o serviço disponibilizado pelo SIATER2-app.
 
-Contate-nos
+Violação de dados pessoais: é uma violação de segurança que provoque, de modo acidental ou ilícito, a destruição, a perda, a alteração, a divulgação ou o acesso não autorizado a dados pessoais transmitidos, conservados ou sujeitos a qualquer outro tipo de tratamento.
 
-Se você tiver alguma dúvida ou sugestão sobre a minha Política de Privacidade, não hesite em entrar em contato comigo em taffarel.182@gmail.com.
+4.	O que é SIATER2-app?
+
+O SIATER2-app é um sistema de simples acesso com dados sobre projetos de Grãos de produtores da agricultura familiar e de comunidades indígenas, com informações de distribuição de tratores no estados e municipios de Roraima.
+
+5.	Quais são os direitos do usuário do serviço?
+
+O cidadão ao usar os serviços possui os seguintes direitos, conferidos pela Lei Federal n. 13.709, de 14 de agosto de 2018 (Lei de Proteção de Dados Pessoais - LGPD):
+
+o	Direito de retificação (Art. 18, III): direito de solicitar a correção de dados incompletos, inexatos ou desatualizados.
+
+o	Direito à limitação do tratamento dos dados (Art. 18, IV): direito de limitar o tratamento de seus dados pessoais, podendo exigir a eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto na Lei Federal n. 13.709, de 14 de agosto de 2018 (Lei de Proteção de Dados Pessoais - LGPD).
+
+o	Direito de oposição (Art. 18, § 2º): direito de, a qualquer momento, se opor ao tratamento de dados por motivos relacionados com a sua situação particular, com fundamento em uma das hipóteses de dispensa de consentimento ou em caso de descumprimento ao disposto na Lei Federal n. 13.709, de 14 de agosto de 2018 (Lei de Proteção de Dados Pessoais - LGPD). A aplicabilidade deste direito acarretará a incompatibilidade do serviço proposto e o consequente desfazimento da relação do cidadão com o Estado.
+
+o	Direito de não ser submetido a decisões automatizadas (Art. 20): direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, incluídas as decisões destinadas a definir o seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade.
+
+6.	Quais são as obrigações dos usuários que utilizam o serviço?
+
+O cidadão se responsabiliza pela precisão e veracidade dos dados informados e reconhece que a inconsistência destes poderá implicar a impossibilidade de se utilizar serviços públicos por meio do SIATER2-app.
+
+Os serviços não devem ser utilizados indevidamente. É apenas permitido ao cidadão fazer uso do que lhe é disponibilizado, e dentro das normas previstas legalmente no Brasil.
+
+Durante a utilização do serviço, a fim de resguardar e proteger os direitos de terceiros, o cidadão se compromete a não fornecer seus dados e utilizar os serviços disponíveis de maneira responsável.
+
+O cidadão se compromete a não utilizar os serviços SIATER2-app para qualquer finalidade ilegal ou não autorizada, sendo ele responsável pela reparação de todos e quaisquer danos, diretos ou indiretos (inclusive decorrentes de violação de quaisquer direitos de outros cidadãos, de terceiros, inclusive direitos de propriedade intelectual, de sigilo e de personalidade), que sejam causados à Administração Pública, a qualquer outro cidadão, ou, ainda, a qualquer terceiro, inclusive em virtude do descumprimento do disposto nestes Termos de Uso e Política de Privacidade.
+
+O cidadão não deve interferir, comprometer, ou interromper o serviço, ou os servidores ou redes conectadas ao serviço, inclusive por meio da transmissão de qualquer malware, worm, vírus, spyware, ou qualquer outro código de natureza destrutiva ou perturbadora. O cidadão não pode inserir conteúdo ou códigos, ou, de outra forma, alterar ou interferir na maneira como a página do serviço é exibida ou processada no dispositivo.
+
+Em hipótese alguma, o SIATER2-app e seus colaboradores responsabilizam-se por eventuais danos diretos, indiretos, emergentes, especiais, imprevistos ou multas causadas, em qualquer matéria de responsabilidade, seja contratual, objetiva ou civil (inclusive negligência ou outras), decorrentes de qualquer forma de uso deste, mesmo que advertida a possibilidade de tais danos.
+
+Tendo em vista que o SIATER2-app não lida com informações pessoais, o cidadão concorda que não usará robôs, sistemas de varredura e armazenamento de dados (como spiders ou scrapers), links escondidos ou qualquer outro recurso escuso, ferramenta, programa, algoritmo ou método coletor/extrator de dados automático para acessar, adquirir, copiar ou monitorar o SIATER2-app, sem permissão expressa por escrito do Ministério da Economia. Incluem-se nos acessos os realizados através de serviços de hospedagem (hostings), pois devido a uma política interna foram considerados inviáveis para prestação deste serviço público.
+
+A comercialização desse serviço é expressamente proibida. Ao concordar com o Termo de Uso e a Política de Privacidade e utilizar o serviço SIATER2-app, o cidadão receberá permissão do Ministério da Economia para uso não comercial dos serviços oferecidos, o que, em nenhuma hipótese, fará dele proprietário do SIATER2-app.
+
+9.	Informações para contato - qual o contato pelo qual o usuário do serviço pode tirar suas dúvidas ou corrigir algum dado?
+
+o	Assuntos referentes às funcionalidades, ao Termo de Uso e à Política de Privacidade, favor entrar em contato pelo e-mail:
+
+taffarel.182@gmail.com
+
+POLÍTICA DE PRIVACIDADE
+
+Esta Política de Privacidade foi elaborada em conformidade com a Lei Federal n. 12.965 de 23 de abril de 2014 (Marco Civil da Internet) e com a Lei Federal n. 13.709, de 14 de agosto de 2018 (Lei de Proteção de Dados Pessoais - LGPD).
+
+A Política de Privacidade do SIATER2-app inclui assegurar que os dados são meramente estatístico não apresentando dados pessoais.
+
+O SIATER2-app se compromete a cumprir as normas previstas na Lei Federal n. 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados - LGPD), e respeitar os princípios dispostos em seu Art. 6º:
+
+I.	- finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao cidadão, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades;
+
+II.	- adequação: compatibilidade do tratamento com as finalidades informadas ao cidadão, de acordo com o contexto do tratamento;
+
+III.	- necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;
+
+IV.	- livre acesso: garantia, ao cidadão, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade de seus dados pessoais;
+
+V.	- qualidade dos dados: garantia, ao cidadão, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento;
+
+VI.	- transparência: garantia, ao cidadão, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial;
+
+VII.	- segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão;
+
+VIII.	- prevenção: adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais;
+
+IX.	- não discriminação: impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos;
 
 
-Privacy Policy
-Taffarel Catão, created the application as a free and open source application. This SERVICE is provided by taffarel catão at no cost and must be used as is.
-
-This page is used to inform visitors about my policies on the collection, use and disclosure of Personal Information if anyone decides to use my Service.
-
-If you choose to use my Service, you consent to the collection and use of information in relation to this policy. The personal information we collect is used to provide and improve the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at, unless otherwise defined in this Privacy Policy.
-
-Collection and use of information
-
-For a better experience, when using our Service, we do not require you to provide us with certain personally identifiable information.
-
-The application uses third-party services that do not need to collect information used to identify you.
-
-Link to privacy policy of third-party service providers used by the application
-
-Google Play Services
-Registration data
-
-I want to inform you that whenever you use my Service, in case of an error in the application, We will collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device's Internet Protocol (“IP”) address, device name, operating system version, the configuration of the application when using our Service, the time and date of your use of the Service and other statistics.
-
-Cookies
-
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. They are sent to your browser from the websites you visit and are stored in your device's internal memory.
-
-This Service does not explicitly use these “cookies”. However, the application may use third-party codes and libraries that use “cookies” to collect information and improve its services. You have the option to accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
-
-Service Providers
-
-We may employ third party companies and individuals for the following reasons:
-
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform services related to the Service; or
-To help us analyze how our Service is used.
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to carry out the tasks assigned to them on our behalf. However, they are obliged not to disclose or use the information for any other purpose.
-
-Security
-
-We value your trust in providing us with your Personal Information, therefore we are striving to use commercially acceptable means to protect it. But remember that no method of transmission over the Internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
-
-Links to other websites
-
-This Service may contain links to other websites. If you click on a third-party link, you will be directed to that website. Please note that these external sites are operated by us. We have control over, and assume responsibility for, the content, privacy policies, or practices of any third party sites or services.
-
-Children's privacy
-
-These Services are not directed to anyone under 13 years of age. We do not knowingly collect personally identifiable information from children under 13 years of age. If we discover that a child under 13 has provided us with personal information, we will immediately delete it from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that we will be able to do necessary actions.
-
-Changes to this Privacy Policy
-
-We may update our Privacy Policy from time to time. Therefore, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy comes into force from 07/06/2023
-
-Contact us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at taffarel.182@gmail.com.
